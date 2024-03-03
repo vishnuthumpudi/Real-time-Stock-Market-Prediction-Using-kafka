@@ -36,7 +36,7 @@ To get started with the Real-time Stock Market Prediction project, follow these 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/real-time-stock-market-prediction.git
+git clone https://github.com/vishnuthumpudi/Real-time-Stock-Market-Prediction-Using-kafka.git
 ```
 
 ### Installation and Configuration
